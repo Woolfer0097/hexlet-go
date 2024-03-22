@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-    color.Cyan("Prints text in cyan.")
+    color.Cyan("Golang for Brave!")
 }
